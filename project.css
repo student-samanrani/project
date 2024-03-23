@@ -1,0 +1,90 @@
+.header {
+background:#F5F5F5;
+color:rgba(56, 90, 100, 1);
+}
+ #logo{
+font-size: 20px;
+padding-top: 24.38px;
+ }  
+ #logo1{
+    border: 1.5px solid #FF725C;  
+border-radius:50px;
+width: 100px;
+height: 36px;
+ }
+ .btn{
+text-decoration: none; 
+color: #FF725C;
+font-family: Montserrat;
+font-size: 12px;
+padding-left:0px ;
+    
+ }
+ #btn1{
+    width: 170px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top:30px; 
+    color: #FFFFFF;
+    font-family: Montserrat;
+font-size: 25px;
+font-weight: 900;
+line-height: 28.54px;
+letter-spacing: 0.01em;
+background: #FF725C;
+}
+#bm1{
+    color:rgba(56, 90, 100, 1);
+}
+#icons{
+    margin-top:90px;
+color:rgba(56, 90, 100, 1);
+}
+.service-box i.fa{
+width: 110px;
+height: 110px;
+text-align:center;
+font-size:70px;
+background:#F5F5F5;
+display: inline-flex;
+justify-content: center;
+align-items: center;
+border-radius: 50px;
+color: rgba(56, 90, 100, 1);
+}
+#bm{
+    
+color:rgba(56, 90, 100, 1);
+}
+#jid{
+   
+    margin-top: 0px;
+    list-style: none;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0.01em;
+    
+    }
+    #cid{
+        padding-top: 10px;
+    
+    }
+    #bmw{
+       
+        padding: 30px 50px;
+    }
+    .footer{
+background: #2c3e50;
+margin-top:20px;
+color: #FFFFFF;
+padding-top: 40px;
+
+ }
+ #ef{
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 0.5);
+
+ }
+
+
