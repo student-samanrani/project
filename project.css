@@ -21,17 +21,14 @@ padding-left:0px ;
     
  }
  #btn1{
-    width: 170px;
-    height: 50px;
-    border-radius: 50px;
-    margin-top:30px; 
+    border-radius:50px;
+    width: 120px;
+    height: 39px;
+   margin-top:10px;
+   margin-left:10px;
     color: #FFFFFF;
-    font-family: Montserrat;
-font-size: 25px;
-font-weight: 900;
-line-height: 28.54px;
-letter-spacing: 0.01em;
 background: #FF725C;
+border: 0px solid #FF725C;
 }
 #bm1{
     color:rgba(56, 90, 100, 1);
